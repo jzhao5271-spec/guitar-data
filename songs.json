@@ -4,7 +4,7 @@
     "name": "我们",
     "singer": "许巍",
     "category": "二字",
-    "imageUrl": ["https://pic1.imgdb.cn/item/6a30f3796f828650a6e5e9be.png"]
+    "imageUrls": ["https://pic1.imgdb.cn/item/6a30f3796f828650a6e5e9be.png"]
   },
   {
     "id": 2,
@@ -12,8 +12,10 @@
     "singer": "赵雷",
     "category": "二字",
     "imageUrls": [
-    "https://pic1.imgdb.cn/item/6a3b3dd7d01963d63bc4f172.jpg",
-    "https://pic1.imgdb.cn/item/6a3b3dd7d01963d63bc4f173.jpg",
-    "https://pic1.imgdb.cn/item/6a3b3dd8d01963d63bc4f174.jpg"
-  ]
-  },
+      "https://pic1.imgdb.cn/item/6a3b3dd7d01963d63bc4f172.jpg",
+      "https://pic1.imgdb.cn/item/6a3b3dd7d01963d63bc4f173.jpg",
+      "https://pic1.imgdb.cn/item/6a3b3dd8d01963d63bc4f174.jpg"
+    ]
+  }
+  // ... 其他歌曲
+]
